@@ -1,5 +1,1 @@
-const user = {
-  fname: "Elon",
-  lname: "Musk",
-  age: 49,
-};
+const user = "Name Surename";
